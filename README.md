@@ -17,6 +17,6 @@ Reference string for paging is generated using standard matrix multiplications a
 ###Output
 GNU Plots for the selected algorithm on STDOUT.
 ###Instructions
-Maximum No. of Frames used for experimentation can be altered from main.cpp, default value 10.
+Maximum No. of Frames used for experimentation can be altered from page_replacement.cpp, default value 10.
 ###Note
 If you encounter any error like "**** stack smashing detected ****", please re-run the code. It happens probably because of array indices being crossed beyond the boundaries while plotting.
