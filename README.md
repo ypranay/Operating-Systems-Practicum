@@ -5,7 +5,7 @@ Outputs GNU plots for comparison of peformance of the above algorithms for incre
 1. MakeFile
     -	$make
 2.  Run the executable
-		- $./a.out
+    -	$./a.out
 ##Input
 1. Input is read from the file "input" and has the following format:
   N = Size of the Matrices
