@@ -1,0 +1,4 @@
+main: page_replacement.cpp
+	g++ page_replacement.cpp 
+clean:
+	rm a.out	 
